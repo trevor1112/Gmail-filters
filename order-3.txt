@@ -1,0 +1,1 @@
+subject:({"試用期" "加值服務" "感謝您的惠顧" "轉運單" "貨件" "貨物" "包裹" "購買最新狀態" "收費通知" "準備取件" "授權付款" "成功支付" "自動續購" "正式成為" "shipped" "on its way" "order" "purchase success" "payment succeeded" "buy with card" "be canceled"} -{"發票" "收據" "優惠" "invoice" "receipt" "pre-order" "order now"})
