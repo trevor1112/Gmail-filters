@@ -1,0 +1,1 @@
+{subject:({"login" "login attempted" "new login" "new device" "sign in" "signed in" "has been accessed"} -{"can't" "turned" "code"}) {"新的裝置登入" "新的登入活動" "已取得您的 Google 帳戶存取權" "已登出帳戶"}}
